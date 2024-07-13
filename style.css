@@ -1,0 +1,11 @@
+.right {
+    border-radius: 10px;
+    border-color: rgb(39, 136, 39);
+    background-color: rgb(39, 136, 39);
+    width: 150px;
+    height: 80px;
+}
+.in {
+    padding-left: 50px;
+    padding-top: 15px;
+}
